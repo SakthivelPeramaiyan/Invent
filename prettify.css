@@ -28,3 +28,9 @@ ol.linenums li {
   line-height: 18px;
   text-shadow: 0 1px 0 #fff;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
